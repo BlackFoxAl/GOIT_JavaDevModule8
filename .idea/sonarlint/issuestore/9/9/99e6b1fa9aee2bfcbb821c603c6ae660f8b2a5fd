@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ƒ¾8÷ªÔ«Ï1
+~
+java:S1450"\Remove the "selectMaxIdSt" field and declare it as a local variable in the relevant methods.(Ôµ¨Òıÿÿÿÿ8€«Ô«Ï1
+L	java:S106,"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8…«Ô«Ï1
+L	java:S106H"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8…«Ô«Ï1

@@ -1,0 +1,12 @@
+
+q
+java:S1104"VMake sqlQueries a static final constant or non-public and provide accessors if needed.(¥‡’ıÿÿÿÿ
+K
+java:S1444"0Make this "public static sqlQueries" field final(¥‡’ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û¡ò—
+_
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(òìÈˆüÿÿÿÿ
+@
+java:S2386"%Make member "sqlQueries" "protected".(òìÈˆüÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(òìÈˆüÿÿÿÿ

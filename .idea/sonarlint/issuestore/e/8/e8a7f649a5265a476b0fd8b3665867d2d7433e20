@@ -1,0 +1,24 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø·×œ
+q
+java:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚è¯‚ÿÿÿÿÿ8Ì£¥Ï1
+i
+java:S2095A"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ì£¥Ï1
+i
+java:S2095R"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ì£¥Ï1
+i
+java:S2095c"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ì£¥Ï1
+i
+java:S20952"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ì£¥Ï1
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ŒãÆ©
+W
+java:S2209"5Change this instance-reference to a static reference.(Á¨üÊşÿÿÿÿ8ñ£¥Ï1
+W
+java:S22091"5Change this instance-reference to a static reference.(Á¨üÊşÿÿÿÿ8ô£¥Ï1
+W
+java:S2209@"5Change this instance-reference to a static reference.(Á¨üÊşÿÿÿÿ8ô£¥Ï1
+W
+java:S2209Q"5Change this instance-reference to a static reference.(Á¨üÊşÿÿÿÿ8€¤¥Ï1
+W
+java:S2209b"5Change this instance-reference to a static reference.(Á¨üÊşÿÿÿÿ8…¤¥Ï1
